@@ -1,0 +1,35 @@
+.addTask{
+    cursor: pointer;
+}
+
+.container{
+    display: flex;
+}
+
+.container1{
+    margin-left: 0.3%;
+    background-color: aqua;
+    width: 33%;
+}
+
+.container2{
+    background-color: pink;
+    margin-left: 0.3%;
+    width: 33%;
+}
+
+.container3{
+    background-color: orange;
+    margin-left: 0.3%;
+    width: 33%;
+}
+
+#tasks{
+    background-color: rgb(174, 217, 231);
+    margin-top: 10px;
+}
+
+.about-task{
+    height: auto;
+    background-color: rgb(208, 232, 240);
+}
